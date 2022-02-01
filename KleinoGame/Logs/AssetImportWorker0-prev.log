@@ -1,0 +1,322 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Education' Language: 'fr' Physical Memory: 32413 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/2201089/Documents/GitHub/Kleino/KleinoGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57718
+Successfully changed project path to: C:/Users/2201089/Documents/GitHub/Kleino/KleinoGame
+C:/Users/2201089/Documents/GitHub/Kleino/KleinoGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2201089/Documents/GitHub/Kleino/KleinoGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   
+    VRAM:     12143 MB
+    Driver:   30.0.14.7284
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001610 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.435 seconds
+Domain Reload Profiling:
+	ReloadAssembly (435ms)
+		BeginReloadAssembly (40ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (341ms)
+			LoadAssemblies (38ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (108ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (135ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (64ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003521 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000195AAE65020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A5282950 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9DBA020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A4F7F3D0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AAE89C30 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AA2FE030 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A5386240 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A526DC10 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A99D8230 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AAE89C30 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9A49020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9A77230 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9DBA020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9A77230 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A52ED8A0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A99D8230 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AAC28070 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A52ED8A0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AA1F9010 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A960B020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9D3A640 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9F4E010 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9DBA020 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A52ED8A0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9D3A640 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9ADB240 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AB0DE6E0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A9FAB010 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A5078A40 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AA306040 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A53A2990 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195AAE063E0 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A5396250 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000195A5078A40 doesn't match image C:\Users\2201089\Documents\GitHub\Kleino\KleinoGame\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Domain Reload Profiling:
+	ReloadAssembly (846ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (685ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2238 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.9 MB.
+System memory in use after: 99.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2672.
+Total: 2.598300 ms (FindLiveObjects: 0.161800 ms CreateObjectMapping: 0.071200 ms MarkObjects: 2.319100 ms  DeleteObjects: 0.045500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/MondeMedieval.unity
+  artifactKey: Guid(294d1721b54e86249b28117dd67294fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MondeMedieval.unity using Guid(294d1721b54e86249b28117dd67294fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f409e17f7df746c6f911903303c3746') in 0.014918 seconds 
+  Import took 0.017499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 416.489246 seconds.
+  path: Assets/Sprites/MoyenAge/feuille sprite moyen âge2_1.asset
+  artifactKey: Guid(e84c26bd5aff21f42b08aa6b698b2927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/feuille sprite moyen âge2_1.asset using Guid(e84c26bd5aff21f42b08aa6b698b2927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdd528072d2e6c2fee8ef97f85a91df') in 0.062231 seconds 
+  Import took 0.065906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.977255 seconds.
+  path: Assets/Sprites/MoyenAge/NewAudioMixer.mixer
+  artifactKey: Guid(5cee0a255571ea44b91933d1e14689b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/NewAudioMixer.mixer using Guid(5cee0a255571ea44b91933d1e14689b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70dc1ea6d4005829a7f69de7cf1db8ee') in 0.008568 seconds 
+  Import took 0.011921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.076957 seconds.
+  path: Assets/Sprites/MoyenAge/NewAudioMixer 1.mixer
+  artifactKey: Guid(df70f0a7910a60f449148a268d57e2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/NewAudioMixer 1.mixer using Guid(df70f0a7910a60f449148a268d57e2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19200b29d29a125d121541512cd9630f') in 0.006773 seconds 
+  Import took 0.009597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048613 seconds.
+  path: Assets/Sprites/MoyenAge/feuille sprite moyen âge_198.asset
+  artifactKey: Guid(fd72492809229574c81b3ae91185e7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/feuille sprite moyen âge_198.asset using Guid(fd72492809229574c81b3ae91185e7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ed6a8403fc105a35b095719d5899ac') in 0.009224 seconds 
+  Import took 0.012266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659453 seconds.
+  path: Assets/Sprites/MoyenAge/feuille sprite moyen âge_201.asset
+  artifactKey: Guid(8d5385cb66096c142a3ff37ffd83c34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/feuille sprite moyen âge_201.asset using Guid(8d5385cb66096c142a3ff37ffd83c34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf2a08ef659bc63cb60d92261e3e8f8') in 0.009930 seconds 
+  Import took 0.012855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.421692 seconds.
+  path: Assets/Sprites/MoyenAge/maison.png
+  artifactKey: Guid(53363762fb68eab4e9b6e013954d1ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/maison.png using Guid(53363762fb68eab4e9b6e013954d1ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d21d50b76d94707bc6b50fcf6a9f1b') in 0.031424 seconds 
+  Import took 0.034373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.680435 seconds.
+  path: Assets/Sprites/MoyenAge/MoyenAge.prefab
+  artifactKey: Guid(8a15fb53ad68e5f419bad2461d0b0291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/MoyenAge.prefab using Guid(8a15fb53ad68e5f419bad2461d0b0291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0900ffca73267347f27d7c1cf030d6') in 0.109758 seconds 
+  Import took 0.114887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.269157 seconds.
+  path: Assets/Sprites/MoyenAge/mur.png
+  artifactKey: Guid(bcfbdd5f4b6e17f45b27d347b1a1133f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/mur.png using Guid(bcfbdd5f4b6e17f45b27d347b1a1133f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edb8bf9085a085357602fa6054044b1') in 0.012984 seconds 
+  Import took 0.016398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.672742 seconds.
+  path: Assets/Sprites/MoyenAge/mur_cotedroit.png
+  artifactKey: Guid(ee04f882180a9394d93e200303242a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/mur_cotedroit.png using Guid(ee04f882180a9394d93e200303242a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e39c5dcacc1c696cc9df1801a7b1bb4') in 0.015228 seconds 
+  Import took 0.018576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.966396 seconds.
+  path: Assets/Sprites/MoyenAge/TX Tileset Wall.png
+  artifactKey: Guid(0ce88e596042e824b839ba931034a1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/TX Tileset Wall.png using Guid(0ce88e596042e824b839ba931034a1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af7cc33f75aa4d151aae0ff7f813bdb') in 0.015336 seconds 
+  Import took 0.018419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.753242 seconds.
+  path: Assets/Sprites/MoyenAge/banc face.png
+  artifactKey: Guid(408b1668f7fc3324ebc81bed3cf5fc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/banc face.png using Guid(408b1668f7fc3324ebc81bed3cf5fc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ef61a0fdc6abc1dcdd75dc9432f0ba') in 0.014781 seconds 
+  Import took 0.018643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.387089 seconds.
+  path: Assets/Sprites/MoyenAge/banc face.png
+  artifactKey: Guid(408b1668f7fc3324ebc81bed3cf5fc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/banc face.png using Guid(408b1668f7fc3324ebc81bed3cf5fc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa50bfc3d1b74e566eaa5648f3e350a6') in 0.009187 seconds 
+  Import took 0.012148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882303 seconds.
+  path: Assets/Sprites/MoyenAge/banc_cote.png
+  artifactKey: Guid(feb1e24ca7b362647b503edaa73f335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/banc_cote.png using Guid(feb1e24ca7b362647b503edaa73f335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4962489449b9a2f7c88606c6dbc57ff') in 0.012811 seconds 
+  Import took 0.016050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.475902 seconds.
+  path: Assets/Sprites/MoyenAge/banc_cote.png
+  artifactKey: Guid(feb1e24ca7b362647b503edaa73f335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MoyenAge/banc_cote.png using Guid(feb1e24ca7b362647b503edaa73f335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6faff277c594ed89ab99e022e5f1f2cd') in 0.007818 seconds 
+  Import took 0.011449 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
